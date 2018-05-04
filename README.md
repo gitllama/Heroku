@@ -28,6 +28,16 @@ menu>data から追加
 menu>data>postgresql-hogehoge>Setttig>DatabaseCredentials View  
 でURIを指定することでnode.jpのpgからアクセス可能
 
+### postgreSQL
+
+#### JSON
+
+postgreSQL 9.2からJSONのサポートがされている。2018-05-04時点でv10がdefaultなので使えるはず。
+
+
+
+####
+
 ##
 
 heroku login: Herokuにログインします。
